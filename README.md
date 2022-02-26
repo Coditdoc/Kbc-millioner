@@ -4,4 +4,15 @@ It is still something I'm still proud of, as i fixed all bugs by my self "didn't
 what it has audio too, yeah turn on the speakers and enjoy.
 
 
-# what it is doing on github?
+# how to run?
+Download the zip file.
+Unzip it.
+Run Kbc - start.
+
+# how to edit/add code?
+Right click on Kbc-start.
+Open with notepad(any text editor of your choice)
+
+#how to edit/add audio?
+Right click on any .vbs files.
+Open with notepad(any text editor of your choice)
