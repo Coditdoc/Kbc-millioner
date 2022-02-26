@@ -13,6 +13,6 @@ Run Kbc - start.
 Right click on Kbc-start.
 Open with notepad(any text editor of your choice)
 
-#how to edit/add audio?
+# how to edit/add audio?
 Right click on any .vbs files.
 Open with notepad(any text editor of your choice)
