@@ -9,10 +9,10 @@ Download the zip file.
 Unzip it.
 Run Kbc - start.
 
-# how to edit/add code?
+# how to edit/add questions?
 Right click on Kbc-start.
-Open with notepad(any text editor of your choice)
+Open with notepad or any text editor of your choice.
 
 # how to edit/add audio?
 Right click on any .vbs files.
-Open with notepad(any text editor of your choice)
+Open with notepad or any text editor of your choice.
