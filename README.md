@@ -1,7 +1,5 @@
 # What is this?  
-This is the first ever program/game, I codded when i was 12 ( so yeah dont judge me).
-It is still something I'm still proud of, as i fixed all bugs by my self "didn't even used google".
-what it has audio too, yeah turn on the speakers and enjoy.
+This is the first ever program/game I coded when I was 12 (so yeah, don’t judge me). It is still something I’m proud of, as I fixed all bugs by myself. “I didn’t even use Google”. What, it has audio too? Yeah, turn on the speakers and enjoy.
 
 
 # how to run?
